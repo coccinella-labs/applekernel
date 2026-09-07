@@ -3,3 +3,5 @@
 </p>
 
 apple silicon gpu compute kernel.
+
+Notes and scripts for Apple Silicon GPU compute (Metal): kernel notes, `install.sh` setup, `PROJECT-META.md` licensing metadata, and CI skeletons (`.circleci/`, `.gitlab-ci.yml`, `.github/`).
