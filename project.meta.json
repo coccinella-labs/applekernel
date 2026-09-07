@@ -1,7 +1,7 @@
 {
   "name": "kernel.metal",
-  "copyright": "Copyright (c) 2025 KERNEL.METAL (harpertoken)",
+  "copyright": "Copyright (c) 2025 KERNEL.METAL (coccinella-labs)",
   "license": "MIT License",
   "spdx": "MIT",
-  "repository": "https://github.com/harpertoken/kernel.metal"
+  "repository": "https://github.com/coccinella-labs/applekernel"
 }
