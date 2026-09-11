@@ -3,7 +3,7 @@ name: Commercial License Request
 about: Request permission to use KERNEL.METAL software for commercial purposes
 title: "[Commercial Request]"
 labels: commercial
-assignees: harpertoken
+assignees: coccinella-labs
 ---
 
 ## Company / Individual Name
