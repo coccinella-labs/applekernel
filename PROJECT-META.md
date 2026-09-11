@@ -8,7 +8,7 @@ This file serves as the single source of truth for project licensing, copyright,
 | Copyright  | Copyright (c) 2025 KERNEL.METAL (coccinella-labs) |
 | License    | MIT License                                |
 | SPDX       | MIT                                        |
-| Repository | https://github.com/harpertoken/kernel.metal |
+| Repository | https://github.com/coccinella-labs/applekernel |
 
 ## Usage
 
